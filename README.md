@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd-year **BS Software Engineering** student at the **University of Science and Technology, Bannu**
+- 🎓 **BS Software Engineering** student at the **University of Science and Technology, Bannu**
 - 📱 Passionate about **Flutter mobile app development** with real-time backends
 - 🔥 Currently building production-style apps using **Flutter, Firebase, and Cloud Firestore**
 - 🤖 Exploring **AI integration** in mobile apps (content generation, smart features)
