@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer | Software Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00897B&center=true&vCenter=true&width=500&lines=Flutter+%26+Firebase+Developer;3rd-Year+BS+Software+Engineering+Student;Building+Real-World+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00897B&center=true&vCenter=true&width=500&lines=Flutter+%26+Firebase+Developer;B.Sc+Software+Engineering+Student;Building+Real-World+Mobile+Apps" alt="Typing SVG" />
 </p>
 
 ---
