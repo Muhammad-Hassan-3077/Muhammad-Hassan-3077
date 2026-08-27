@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Software Engineering** student at the **University of Science and Technology, Bannu**
+- 🎓 **B.Sc Software Engineering** student at the **University of Science and Technology, Bannu**
 - 📱 Passionate about **Flutter mobile app development** with real-time backends
 - 🔥 Currently building production-style apps using **Flutter, Firebase, and Cloud Firestore**
 - 🤖 Exploring **AI integration** in mobile apps (content generation, smart features)
@@ -70,11 +70,6 @@ Working through CodeAlpha's App Development track, focused on building clean, us
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-3077&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-3077&layout=compact&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hassan-3077&hide_border=true" alt="streak stats"/>
