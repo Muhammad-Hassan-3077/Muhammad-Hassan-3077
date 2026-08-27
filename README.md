@@ -72,7 +72,7 @@ Working through CodeAlpha's App Development track, focused on building clean, us
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hassan-3077&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Muhammad-Hassan-3077&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 ---
